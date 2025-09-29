@@ -1,4 +1,4 @@
-# Tugas Asistensi Dasprog 2025 : Arrays for C
+# Tugas Asistensi Dasprog 2025 : TypeDef and Struct with Pointer for C
 
 Dalam programming assignment kali ini, Anda diminta untuk memperbaiki program menghitung bunga dalam bank.
 Dalam Program ini, kalian hanya perlu membenarkan masalah yang ada, serta menjelaskannya juga.
