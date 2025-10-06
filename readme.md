@@ -7,7 +7,7 @@ sebagai template awal, Anda akan diberikan program yang sudah ada isinya.
 
 ## Langkah-Langkah yang perlu dilakukan
 
-1. Clone Repository ini ke dalam github kalian (Link Repo = https://github.com/DarrenCasper/Tugas-Asistensi-Dasar-Pemgrograman-3-2025.git).
+1. Clone Repository ini ke dalam github kalian (Link Repo = https://github.com/DarrenCasper/Tugas-Asistensi-Dasar-Pemgrograman-4-2025.git).
 2. Deklarasi seluruh variabel yang dibutuhkan di kode tersebut.
 3. Perbaiki setiap masalah yang ada.
 4. Setelah sudah, buat laporan dengan nama REPORT.md untuk mencatat log setiap commit yang kalian lakukan. (ingat .md bukan nama repo itu format penulisan)
