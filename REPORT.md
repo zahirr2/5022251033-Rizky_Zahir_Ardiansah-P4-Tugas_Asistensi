@@ -1,9 +1,8 @@
-# Laporan Perbaikan Program
+# Report Perbaikan Program
 
-**Nama:** Zahir  
+**Nama:** Rizkt Zahir  
 **Judul:** Program Perhitungan Bunga Bank (`bank_interest.c`)
 
----
 
 Terdapat beberapa perbaikan penting pada program agar dapat berjalan dengan benar dan sesuai dengan standar penulisan C:
 
